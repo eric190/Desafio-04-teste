@@ -1,0 +1,113 @@
+using System;
+
+namespace Desafio__03
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            System.Collections.Generic.List<int> notas = new System.Collections.Generic.List<int>();
+            notas.Add(8);
+            notas.Add(7);
+            notas.Add(9);
+            
+
+            string João;
+            int idade1= 18;
+            int n1 = 8;
+
+            string Larissa;
+            int idade2 = 29;
+            int n2 = 7;
+
+            string Marcos;
+            int idade3 = 33;
+            int n3 = 9;
+
+            
+            
+            
+            
+
+            
+            Console.WriteLine("A soma das 3 notas foram:" );
+            foreach(int n in notas){
+                Console.WriteLine(n1+ n2 + n3);
+
+
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
+    }
+}
